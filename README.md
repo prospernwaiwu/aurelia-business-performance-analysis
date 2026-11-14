@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Screenshot%20(33).png" width="100%" alt="Aurelia Business Performance Analysis">
+</p>
+
 # aurelia-business-performance-analysis
 # Aurelia Consumer Products
 ## Business Performance & Profitability Analysis
